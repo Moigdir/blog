@@ -4,13 +4,12 @@
 
 # Site
 title: Mo的翻译小站
-subtitle: '什么都翻一点...'
+subtitle: '什么都翻一点...' | '什么都记录些'
 description: ''
 keywords:
 author: John Doe
 language: zh-cn
 timezone: ''
-
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
