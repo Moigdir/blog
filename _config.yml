@@ -4,13 +4,16 @@
 
 # Site
 title: Mo的翻译小站
-avatar: /root/MoDanBlog/img/title.jpg
+avatar: 
+  url: /root/MoDanBlog/source/images/title.jpg
+  rounded: true
+  rotated: false
 subtitle: 什么都翻一点... | 什么都记录些
 description: ''
 keywords:
 author: Mo.K
-language: zh-cn
-timezone: 'Asia/Shanghai'
+language: zh-CN
+timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
